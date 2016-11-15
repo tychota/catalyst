@@ -88,7 +88,6 @@ xcuserdata/
 *.xccheckout
 *.xcscmblueprint
 
-
 ### Android ###
 # Built application files
 *.apk
@@ -107,7 +106,6 @@ out/
 
 # Gradle files
 .gradle/
-build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -126,6 +124,9 @@ captures/
 
 # Intellij
 *.iml
+
+## Jetbrains
+.idea
 
 # Keystore files
 *.jks
